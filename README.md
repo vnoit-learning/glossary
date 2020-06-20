@@ -1,6 +1,6 @@
-# Glossary of Terms
-TODO: Categorise the list
+# Glossary - Definitions of terms
 
+TODO: Categorise the list
 
 1. [Cache invalidation](#cache-invalidation)
 2. [Distributed System](#distributed-system)
@@ -9,20 +9,24 @@ TODO: Categorise the list
 
 ---
 
-### Cache invalidation
+## Cache invalidation
+
 TODO Add the meaning
 
 ---
 
-### Distributed System
+## Distributed System
+
 TODO Add the meaning
 
 ---
 
-### Write-through cache policy
+## Write-through cache policy
 
+TODO Add the meaning
 
 ---
 
-### Write-back data cache policy
+## Write-back data cache policy
 
+TODO Add the meaning
