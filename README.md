@@ -1,9 +1,14 @@
 # Glossary of Terms
 
-1. [Cache invalidation](#Cache invalidation)
-2. [Distributed System](#Distributed System)
+1. [Cache invalidation](#cache-invalidation)
+2. [Distributed System](#distributed-system)
 
 ---
 
-### Cache invalidation - 
-### Distributed System - 
+### Cache invalidation
+TODO Add the meaning
+
+---
+
+### Distributed System
+TODO Add the meaning
