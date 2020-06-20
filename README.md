@@ -1,4 +1,6 @@
 # Glossary of Terms
+TODO: Categorise the list
+
 
 1. [Cache invalidation](#cache-invalidation)
 2. [Distributed System](#distributed-system)
